@@ -4,7 +4,7 @@ http://minurlz.herokuapp.com/
 
 ## How to run
 ###prerequisite
-Mongodb,Node.JS
+Mongodb,Node.JS Updated version
 
 Download or clone the the repo
 ```
